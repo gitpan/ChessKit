@@ -1,0 +1,17 @@
+Build.PL
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Board.pm
+lib/ChessKit.pm
+lib/Move.pm
+lib/Trad.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+eg/tradfromto.pl
+eg/dscripdata.pl
+eg/analizmov.pl
+eg/alekhine_euwe.pgn
