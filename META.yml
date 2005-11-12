@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: ChessKit
-version: lib/ChessKit.pm
+version: 0.03
 author:
   - Charles Minc <charles.minc\@wanadoo.fr>
 abstract: 
